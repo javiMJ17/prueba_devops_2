@@ -1,0 +1,22 @@
+target/
+.idea/
+*.iml
+*.class
+.vscode/
+*.log
+.github_backup
+
+# Archivos de compilacion
+target/
+
+# Variables de entorno y contraseñas
+.env
+.env.*
+
+# Configuraciones locales
+.vscode/
+.idea/
+
+# Archivos temporales
+*.log
+.github_backup
